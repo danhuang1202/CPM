@@ -1,0 +1,27 @@
+{
+  "name": "cpm",
+  "version": "1.0.0",
+  "description": "connection pool management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhuang1202/CPM.git"
+  },
+  "keywords": [
+    "database",
+    "connection",
+    "pool"
+  ],
+  "author": "Dan Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhuang1202/CPM/issues"
+  },
+  "homepage": "https://github.com/danhuang1202/CPM#readme",
+  "devDependencies": {
+    "mysql": "^2.11.1"
+  }
+}
